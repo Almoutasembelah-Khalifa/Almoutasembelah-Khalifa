@@ -10,10 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://almoutasem.ly"><img src="https://img.shields.io/badge/Portfolio-almoutasem.ly-3DDC97?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/almoutasembelah-khalifa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:contact@almoutasem.ly"><img src="https://img.shields.io/badge/Email-contact%40almoutasem.ly-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Almoutasembelah-Khalifa&style=for-the-badge&color=3DDC97&label=Profile+Views" />
+  <a href="https://almoutasem.ly"><img src="./assets/badge-portfolio.svg" height="32" alt="Portfolio: almoutasem.ly" /></a>
+  <a href="https://linkedin.com/in/almoutasembelah-khalifa"><img src="./assets/badge-linkedin.svg" height="32" alt="LinkedIn" /></a>
+  <a href="mailto:contact@almoutasem.ly"><img src="./assets/badge-email.svg" height="32" alt="Email: contact@almoutasem.ly" /></a>
 </p>
 
 ---
